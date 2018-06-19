@@ -9,9 +9,3 @@
   })(jQuery); // end of jQuery name space
   
 
-  ('#send').click(function() {
-    $('#form').attr('action',
-                   'mailto:kenzie.simmons27@gmail.com?subject=' +
-                   $('#name').val() + $('#email').val() + '&body=' + $('#message').val());
-    $('#form').submit();
-});
