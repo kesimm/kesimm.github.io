@@ -72,11 +72,6 @@
       background-image: url("../images/bluebird.jpg")
   }
 
-  #form{
-      margin: 50px 0px 400px 0px;
-      padding: 20px;
-  }
-  a {
-      padding: 5px;
-      border: 2px solid teal;
-  }
+.card{
+    margin: 40px 0px 370px 0px;
+}
